@@ -1,0 +1,21 @@
+main {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.container {
+  text-align: center;
+}
+button {
+    background: transparent;
+    padding: 15px 32px;
+    border: 2px solid #000000;
+    transition-duration: 0.3s;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
+button:hover {
+    background-color: #000000;
+    color: white;
+  }
